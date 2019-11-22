@@ -1,24 +1,13 @@
-<!--
-  Copyright (C) 2018 The Android Open Source Project
-
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
-  -->
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-        android:width="24dp"
-        android:height="24dp"
-        android:viewportWidth="24.0"
-        android:viewportHeight="24.0">
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
     <path
-        android:fillColor="#FFFFFF"
-        android:pathData="M3,20h18v-4H3V20zM5,17h2v2H5V17zM3,4v4h18V4H3zM7,7H5V5h2V7zM3,14h18v-4H3V14zM5,11h2v2H5V11z"/>
+        android:name="path"
+        android:pathData="M 3 19 C 3 19.265 3.105 19.52 3.293 19.707 C 3.48 19.895 3.735 20 4 20 L 20 20 C 20.265 20 20.52 19.895 20.707 19.707 C 20.895 19.52 21 19.265 21 19 L 21 17 C 21 16.735 20.895 16.48 20.707 16.293 C 20.52 16.105 20.265 16 20 16 L 4 16 C 3.735 16 3.48 16.105 3.293 16.293 C 3.105 16.48 3 16.735 3 17 L 3 19 Z M 5 18 C 5 17.448 5.448 17 6 17 C 6.552 17 7 17.448 7 18 C 7 18.552 6.552 19 6 19 C 5.448 19 5 18.552 5 18 Z M 4 4 C 3.735 4 3.48 4.105 3.293 4.293 C 3.105 4.48 3 4.735 3 5 L 3 7 C 3 7.265 3.105 7.52 3.293 7.707 C 3.48 7.895 3.735 8 4 8 L 20 8 C 20.265 8 20.52 7.895 20.707 7.707 C 20.895 7.52 21 7.265 21 7 L 21 5 C 21 4.735 20.895 4.48 20.707 4.293 C 20.52 4.105 20.265 4 20 4 L 4 4 Z M 7 6 C 7 6.552 6.552 7 6 7 C 5.448 7 5 6.552 5 6 C 5 5.448 5.448 5 6 5 C 6.552 5 7 5.448 7 6 Z M 3 13 C 3 13.265 3.105 13.52 3.293 13.707 C 3.48 13.895 3.735 14 4 14 L 20 14 C 20.265 14 20.52 13.895 20.707 13.707 C 20.895 13.52 21 13.265 21 13 L 21 11 C 21 10.735 20.895 10.48 20.707 10.293 C 20.52 10.105 20.265 10 20 10 L 4 10 C 3.735 10 3.48 10.105 3.293 10.293 C 3.105 10.48 3 10.735 3 11 L 3 13 Z M 5 12 C 5 11.448 5.448 11 6 11 C 6.552 11 7 11.448 7 12 C 7 12.552 6.552 13 6 13 C 5.448 13 5 12.552 5 12 Z"
+        android:fillColor="#ab47bc"
+        android:strokeWidth="1"/>
 </vector>
